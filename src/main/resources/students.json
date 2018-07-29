@@ -1,0 +1,37 @@
+[
+  {
+    "SecondName": "Ivanov",
+    "Course": "filosophy1",
+    "Age": "25"
+  },
+  {
+    "SecondName": "Petrov",
+    "Course": "computer science",
+    "Age": "22"
+  },
+  {
+    "SecondName": "Ivanov",
+    "Course": "filosophy2",
+    "Age": "25"
+  },
+  {
+    "SecondName": "Ivanov",
+    "Course": "filosophy3",
+    "Age": "21"
+  },
+  {
+    "SecondName": "Ivanov",
+    "Course": "filosophy1",
+    "Age": "10"
+  },
+  {
+    "SecondName": "Ivanov",
+    "Course": "filosophy1",
+    "Age": "25"
+  },
+  {
+    "SecondName": "Oleksandrov",
+    "Course": "psychology",
+    "Age": "21"
+  }
+]

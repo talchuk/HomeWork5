@@ -29,5 +29,12 @@ public class StudentJSON {
             System.out.println(st);
               
     }
+	 
+	 public static List<Student> sort(List<Student> studentsToSort) {
+        Comparator<Student> studComp = Comparator.comparing(Student::getSecondName)
+                .thenComparing(Student::getCourse).thenComparing(Student::getAge);
+        Collections.sort(studentsToSort, studComp);
+        return studentsToSort;
+    }
 
 }
